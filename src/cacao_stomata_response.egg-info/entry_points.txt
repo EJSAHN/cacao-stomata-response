@@ -1,2 +1,0 @@
-[console_scripts]
-cacao-stomata-response = cacao_stomata_response.cli:main
