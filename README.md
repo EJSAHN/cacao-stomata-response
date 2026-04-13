@@ -1,6 +1,6 @@
 # cacao-stomata-response
 
-A trial-aware, control-anchored analysis pipeline for cacao stomatal response data.
+A Python package for trial-aware, control-anchored analysis of cacao stomatal pathogen-response morphometrics.
 
 ## Overview
 
